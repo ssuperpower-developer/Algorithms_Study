@@ -1,4 +1,3 @@
-import readline
 import sys
 N = sys.stdin.readline()
 A = list(map(int, sys.stdin.readline().split()))
